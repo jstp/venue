@@ -1,0 +1,34 @@
+{
+  "name": "@jstp/venue",
+  "version": "0.0.1",
+  "description": "Venue for JSTP",
+  "main": "venue.js",
+  "scripts": {
+    "test": "washington examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstp/venue.git"
+  },
+  "keywords": [
+    "venue",
+    "jstp",
+    "events",
+    "event-driven",
+    "eventdriven",
+    "sydney",
+    "object-pattern"
+  ],
+  "author": "Xavier Via <fernando.via@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstp/venue/issues"
+  },
+  "homepage": "https://github.com/jstp/venue#readme",
+  "devDependencies": {
+    "washington": "^0.12.0"
+  },
+  "dependencies": {
+    "sydney": "^1.0.0"
+  }
+}
